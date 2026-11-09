@@ -1,4 +1,4 @@
-# SpecRes: Learnable Low-Rank Spectral Residuals for Graph Collaborative Filtering
+# Learnable Low-Rank Spectral Residuals for Graph Collaborative Filtering
 
 SpecRes adds a learned low-rank spectral residual to a trained graph recommender (XSimGCL or LightGCN).
 This repository contains the code for all models, baselines, ablations and tables.
